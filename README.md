@@ -12,7 +12,7 @@ Figma project - https://www.figma.com/file/hbBzycZDR4WGSVWyK5aOqV/RocketNotes?n
 # Technologies used 
 ## Front end
 - HTML / CSS / JS
-- React
+- React / react-icons
 - Styled-Components
 
 ## Back end
