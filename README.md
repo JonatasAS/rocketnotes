@@ -16,8 +16,7 @@ Figma project - https://www.figma.com/file/hbBzycZDR4WGSVWyK5aOqV/RocketNotes?n
 - Styled-Components
 
 ## Back end
-- Node.JS
-- Knex
+- Node.JS / Knex / Express
 - Sqlite
 - Insomnia / Test with API
 - Beekeeper / Bank manager
