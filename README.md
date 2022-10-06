@@ -21,3 +21,9 @@ Figma project - https://www.figma.com/file/hbBzycZDR4WGSVWyK5aOqV/RocketNotes?n
 - Sqlite
 - Insomnia / Test with API
 - Beekeeper / Bank manager
+
+# Autor
+
+Jonatas Amorim Silva
+
+https://www.linkedin.com/in/jonatas-amorim-cref25/
