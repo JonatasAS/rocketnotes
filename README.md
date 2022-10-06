@@ -20,3 +20,4 @@ Figma project - https://www.figma.com/file/hbBzycZDR4WGSVWyK5aOqV/RocketNotes?n
 - Knex
 - Sqlite
 - Insomnia / Test with API
+- Beekeeper / Bank manager
