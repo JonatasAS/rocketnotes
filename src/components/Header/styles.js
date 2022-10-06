@@ -42,5 +42,15 @@ export const Profile = styled.div`
       font-size: 18px;
       color: ${({ theme }) => theme.COLORS.WHITE};
     }
+  }  
+`;
+
+export const Logout = styled.button`
+  border: none;
+  background: none;
+
+  > svg {
+    color: ${({ theme }) => theme.COLORS.GRAY_100};
+    font-size: 36px;
   }
 `;
