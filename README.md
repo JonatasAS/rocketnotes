@@ -10,13 +10,11 @@ the application consists of user registration and inclusion of notes and links, 
 Figma project - https://www.figma.com/file/hbBzycZDR4WGSVWyK5aOqV/RocketNotes?node-id=0%3A1
 
 # Technologies used 
-## Front end
 - HTML / CSS / JS
-- React / react-icons / Vite
+- React / react-icons 
+- Vite
 - Styled-Components
-
-## Back end
-- Node.JS / Knex / Express
+- Node.JS / Knex / Express / NPM
 - Sqlite
 - Insomnia / Test with API
 - Beekeeper / Bank manager
