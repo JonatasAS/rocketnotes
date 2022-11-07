@@ -9,6 +9,10 @@ the application consists of user registration and inclusion of notes and links, 
 ## Layout 
 You may be viewing the project through Figma project - [LINK](https://www.figma.com/file/hbBzycZDR4WGSVWyK5aOqV/RocketNotes?node-id=0%3A1 "Figma website"). 
 
+<p align="center">
+  <img alt="rocketnotes" src="https://github.com/JonatasAS/assets/blob/main/rocketnotes.png">
+</p>
+
 # Technologies used 
 - HTML / CSS / JS
 - React / react-icons 
