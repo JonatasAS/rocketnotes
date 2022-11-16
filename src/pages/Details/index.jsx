@@ -24,7 +24,7 @@ export function Details() {
           
           <Section title="Links úteis">
             <Links>
-              <li> <a href="#">https://www.rocketseat.com.br/</a></li>
+              <li><a href="#">https://www.rocketseat.com.br/</a></li>
               <li><a href="#">https://pt-br.reactjs.org/</a></li>
             </Links>
           </Section>

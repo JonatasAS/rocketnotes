@@ -6,6 +6,7 @@ import { Note } from "../../components/Note";
 import { Input } from "../../components/Input";
 import { Section } from "../../components/Section";
 import { ButtonText } from "../../components/ButtonText";
+import { Link } from "react-router-dom";
 
 export function Home() {
   return (
