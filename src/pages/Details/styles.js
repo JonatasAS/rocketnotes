@@ -14,6 +14,10 @@ export const Container = styled.div`
     grid-area: content;
     overflow-y: scroll;
     padding: 64px 0;
+
+    > h1 {
+      display: flex;
+    }
   }
 `;
 
