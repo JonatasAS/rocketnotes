@@ -8,7 +8,7 @@ import { MyContext } from "../../myContext";
 
 export function SignIn() {
   const data = useContext(MyContext);
-
+  console.log("Meu Contexto", data);
   return (
     <Container>
       <Form>

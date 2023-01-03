@@ -10,9 +10,9 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <ThemeProvider theme={theme}>
       <GlobalStyle/>
-      <MyContext>
+      <MyContext.Provider value={{ email: 'jonatas@email.com'}}>
         <Routes />
-      </MyContext>
+      </MyContext.Provider>
     </ThemeProvider>
   </React.StrictMode>
 )
