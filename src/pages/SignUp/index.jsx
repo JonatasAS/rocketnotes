@@ -1,10 +1,10 @@
-import { useState } from "react"
-import { Container, Form, BackgroundImg } from "./styled"
-import { Input } from "../../components/Input"
-import { FiMail, FiLock, FiUser } from "react-icons/fi"
-import { Button } from "../../components/Button"
-import { Link, useNavigate } from "react-router-dom"
-import { api } from "../../services/api"
+import { useState } from "react";
+import { Container, Form, BackgroundImg } from "./styled";
+import { Input } from "../../components/Input";
+import { FiMail, FiLock, FiUser } from "react-icons/fi";
+import { Button } from "../../components/Button";
+import { Link, useNavigate } from "react-router-dom";
+import { api } from "../../services/api";
 
 export function SignUp() {
   const [name, setName] = useState("")
