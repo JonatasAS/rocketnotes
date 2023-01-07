@@ -7,6 +7,13 @@ export const AuthContext = createContext({});
 function AuthProvider({ children }) {
   const [data, setData] = useState("");
 
+  function signOut() {
+    localStorage.removeItem("@rocketnotes:token");
+    localStorage.removeItem("@rocketnotes:user");
+
+    setData({});
+  }
+
   async function signIn({ email, password }) {
     try {
       const response = await api.post("/sessions", { email, password});
@@ -43,7 +50,7 @@ function AuthProvider({ children }) {
   }, []);
 
   return (
-    <AuthContext.Provider value={{ signIn, user: data.user }}>
+    <AuthContext.Provider value={{ signIn, user: data.user, signOut }}>
       {children}
     </AuthContext.Provider>
   )
